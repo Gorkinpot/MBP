@@ -1,0 +1,105 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="kgu_dXJTSG6YDv4GpAK2">
+    <mxGraphModel dx="1195" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-1" target="o0erdrnoa5mFoMJrhzgR-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-1" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;startingNumber&amp;quot;:1,&amp;quot;start&amp;quot;:2382,&amp;quot;end&amp;quot;:3478},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2382,&amp;quot;end&amp;quot;:2453},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2399,&amp;quot;end&amp;quot;:2453},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2399,&amp;quot;end&amp;quot;:2453}]&quot;&gt;Автор отправляет отчет руководителю проекта&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-2" target="o0erdrnoa5mFoMJrhzgR-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-2" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;startingNumber&amp;quot;:1,&amp;quot;start&amp;quot;:2382,&amp;quot;end&amp;quot;:3478},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2455,&amp;quot;end&amp;quot;:2716},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2485,&amp;quot;end&amp;quot;:2716},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2485,&amp;quot;end&amp;quot;:2545}]&quot;&gt;Руководитель проверяет оформление отчета&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="o0erdrnoa5mFoMJrhzgR-4" target="o0erdrnoa5mFoMJrhzgR-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-4" target="o0erdrnoa5mFoMJrhzgR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-4" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;ordered_list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;startingNumber&amp;quot;:1,&amp;quot;start&amp;quot;:2382,&amp;quot;end&amp;quot;:3478},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2455,&amp;quot;end&amp;quot;:2716},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2485,&amp;quot;end&amp;quot;:2716},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2549,&amp;quot;end&amp;quot;:2716}]&quot;&gt;Оформление корректное?&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-6" target="o0erdrnoa5mFoMJrhzgR-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-6" value="Отправить заказчику на согласование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-8" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_VnA6dpFj-ovZsZ2QSQN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o0erdrnoa5mFoMJrhzgR-9" target="o0erdrnoa5mFoMJrhzgR-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-9" value="Вернуть автору на исправление" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-11" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-12" target="o0erdrnoa5mFoMJrhzgR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-12" value="7 дней" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="470" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-14" target="o0erdrnoa5mFoMJrhzgR-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-18" value="Есть замечания" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o0erdrnoa5mFoMJrhzgR-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1375" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-14" target="o0erdrnoa5mFoMJrhzgR-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-21" value="Согласован" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="o0erdrnoa5mFoMJrhzgR-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.3926" y="1" relative="1" as="geometry">
+            <mxPoint x="-41" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-14" value="Результат согласования?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="570" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-16" target="o0erdrnoa5mFoMJrhzgR-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-16" value="Вернуть автору с замечаниями" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="o0erdrnoa5mFoMJrhzgR-19" target="o0erdrnoa5mFoMJrhzgR-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-19" value="Передать на подпись директору" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-22" value="Директор подписывает отчет" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VnA6dpFj-ovZsZ2QSQN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o0erdrnoa5mFoMJrhzgR-26" target="o0erdrnoa5mFoMJrhzgR-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="840" />
+              <mxPoint x="680" y="840" />
+              <mxPoint x="680" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0erdrnoa5mFoMJrhzgR-26" value="Доработать отчет и отправит снова" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
